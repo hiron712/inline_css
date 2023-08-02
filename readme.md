@@ -8,3 +8,7 @@ npm install
 ```
 node conv.js
 ```
+## watch
+```
+npm run watch
+```

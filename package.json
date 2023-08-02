@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "node conv.js"
+    "build": "node conv.js",
+    "watch": "node --watch-path=./htdocs conv.js"
   },
   "author": "",
   "license": "ISC",
